@@ -1,0 +1,33 @@
+@media only screen and (min-width: 200px) and (max-width: 567px) {
+
+    #search-box{
+        width: 65%;
+    }
+
+    input[type="text"]{
+        width: 75%;
+        font-size: medium;
+        font-weight: bold;
+    }
+
+    #text{
+        width: 65%;
+        font-size:large;   
+    }
+
+    #submitButton{
+        width: 35%;
+    }
+
+    #result{
+        width: 70%;
+        height: auto;
+        font-size:medium;
+        font-weight: bold; 
+    }
+
+    .meaning {
+        margin-top: 2%;
+    }
+
+}
